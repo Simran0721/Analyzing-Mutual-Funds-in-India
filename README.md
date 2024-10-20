@@ -5,29 +5,29 @@ To analyze mutual fund performance in India, compare funds across categories, id
 
 ## Data Sources & Queries:
 - Data Source: A dataset containing information about mutual funds in India, including fund name, category, performance metrics, and historical data.
-- Key Queries: 
-o	Overall market performance
-o	Top-performing funds by category
-o	Comparison of fund performance over time
-o	Analysis of risk-return trade-offs
-o	Identification of fund-specific characteristics (e.g., investment style, sector focus)
+- Key Queries:
+  1. Overall market performance
+  2. Top-performing funds by category
+  3. Comparison of fund performance over time
+  4. Analysis of risk-return trade-offs
+  5. Identification of fund-specific characteristics (e.g., investment style, sector focus)
 
 ## Power BI Tools:
 - Get Data: Import the mutual fund data into Power BI using the appropriate connector.
 - Power Query Editor: Clean, transform, and prepare the data for analysis.
-- Visualizations: 
-o	Line Charts: To visualize fund performance over time.
-o	Donut Chart: To represent the distribution of fund categories.
-o	Clustered Column Chart: To compare fund performance across different categories.
-o	Ribbon Chart: To visualize the performance of different fund categories over time.
-o	Area Chart: To analyze the performance of multiple funds simultaneously.
-o	Card: To display key metrics (e.g., average return, standard deviation).
-o	Slicers: To filter data based on different criteria (e.g., fund category, time period).
-o	Gauge: To visualize fund performance against benchmarks.
-o	Treemap: To represent the distribution of funds by category and performance.
-o	Filtering: To drill down into specific funds or time periods.
-o	Format Pane: To customize the appearance of visualizations.
-o	Table: To view detailed fund information.
+- Visualizations:
+  - Line Charts: To visualize fund performance over time.
+  - Donut Chart: To represent the distribution of fund categories.
+  - Clustered Column Chart: To compare fund performance across different categories.
+  - Ribbon Chart: To visualize the performance of different fund categories over time.
+  - Area Chart: To analyze the performance of multiple funds simultaneously.
+  - Card: To display key metrics (e.g., average return, standard deviation).
+  - Slicers: To filter data based on different criteria (e.g., fund category, time period).
+  - Gauge: To visualize fund performance against benchmarks.
+  - Treemap: To represent the distribution of funds by category and performance.
+  - Filtering: To drill down into specific funds or time periods.
+  - Format Pane: To customize the appearance of visualizations.
+  - Table: To view detailed fund information.
 
 ## Data Set Used:
 A dataset containing information about mutual funds in India, including fund name, category, performance metrics, and historical data.
